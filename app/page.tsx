@@ -250,11 +250,6 @@ export default function WasteClassification() {
             </CardContent>
           </Card>
         </div>
-
-        {/* Footer */}
-        <div className="text-center mt-8 text-sm text-gray-500">
-          <p>Powered by Roboflow AI • Real-time waste classification and detection</p>
-        </div>
       </div>
     </div>
   )
